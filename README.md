@@ -1,6 +1,6 @@
 # 💍 Hokagata Wedding Organizer
 
-Project Sistem Informasi Wedding Organizer untuk tugas UAS.
+Project Proyek Perangkat Lunak untuk tugas UAS.
 
 ## 👥 Anggota Kelompok
 
