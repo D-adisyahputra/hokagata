@@ -231,7 +231,7 @@
                 <footer class="content-footer">
                     <div class="footer">
                         <div class="copyright">
-                            <span>Copyright © 2021 <b class="text-dark"></b>. All rights reserved. | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
+                            <span>Copyright © 2021 <b class="text-dark"></b>. All rights reserved.
 							</span>
                         </div>
                     </div>
